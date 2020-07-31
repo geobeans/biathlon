@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="PanelView">
+        <attr name="windSpeedString" format="string" />
+        <attr name="textDimension" format="dimension" />
+        <attr name="angleDimension" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+        <attr name="angle" format="float" />
+    </declare-styleable>
+</resources>

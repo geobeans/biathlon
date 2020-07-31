@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/app_setup"
+        android:icon="@drawable/setting"
+        android:title="设置"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/app_exit"
+        android:icon="@drawable/close_x"
+        android:title="退出"
+        app:showAsAction="never" />
+</menu>
